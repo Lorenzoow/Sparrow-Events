@@ -7,7 +7,7 @@ main > .container {
   }
   
   .footer {
-    background-color: #212529;
+    background-color: #ffffff;
   }
   
   .footer > .container {
@@ -17,5 +17,11 @@ main > .container {
   
   code {
     font-size: 80%;
+  }
+
+  .endereço
+  {
+    width: 500px;
+    height: 500px;
   }
   
